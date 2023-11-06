@@ -1,0 +1,7 @@
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\bin\Debug\T02b_exercicio3.exe.config
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\bin\Debug\T02b_exercicio3.exe
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\bin\Debug\T02b_exercicio3.pdb
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\obj\Debug\T02b_exercicio3.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\obj\Debug\T02b_exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\obj\Debug\T02b_exercicio3.exe
+C:\Users\alexandre\Desktop\programacao_objetos\exercicios_pdfs\T02b_exercicio3\obj\Debug\T02b_exercicio3.pdb
